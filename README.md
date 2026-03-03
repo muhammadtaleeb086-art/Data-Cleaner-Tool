@@ -66,27 +66,6 @@ The project follows a modular **phase-based pipeline design**, making the system
 
 ---
 
-## Project Structure
-
-
-data-cleaner-tool/
-│
-├── main.py
-├── phase1_input.py
-├── phase2_processing.py
-├── phase3_export.py  
-├── phase4_outliers.py
-├── phase5_report.py
-├── phase5_visualization.py
-├── phase6_logging.py
-│
-├── output/
-├── database/
-├── requirements.txt
-└── README.md
-
----
-
 ## Installation & Setup
 
 ### 1. Clone Repository
