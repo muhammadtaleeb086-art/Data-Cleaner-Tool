@@ -1,0 +1,16 @@
+DATA    science           IS   one   of   the   most   IMPORTANT    fields  in   today's   world
+companies    generate HUGE   amount   of   data   every   single DAY    but    this data
+is   often  UNSTRUCTURED   and   contains    MANY     errors   which    makes   it   hard
+for analysts    to   perform     proper   analysis    machine   LEARNING    algorithms
+require    CLEAN    data    otherwise    predictions   can   become   inaccurate   and
+models     might   FAIL   to   generalize   on   unseen   data   this   leads   to   poor
+decision    making   in    BUSINESS   environments    which   can   cause    financial
+losses    and    reduce   operational    efficiency   therefore   DATA   cleaning   is
+a    VERY   important           STEP   before   applying    any    machine   learning    model
+python   is    widely    USED   for   data   analysis   and    preprocessing    tasks
+libraries   like    pandas    numpy    and   matplotlib    help    developers    to
+handle    messy   datasets    and   convert    them   into    structured   formats
+artificial   intelligence    systems    depend   heavily    on    clean   and
+well    formatted   data    to   function    effectively    and   produce   reliable
+results   in   real    world   applications    DATA   quality    plays   a   crucial
+role   in    ensuring   the   success   of    predictive   analytics   systems
